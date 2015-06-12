@@ -3,8 +3,8 @@
 	declare $WhileID_Last:=0
 
 	declare polyphonic $Memory_Overwrite_Blocker
-
-
+ Hallooooo
+Blub
 {---------------------------------------------------   D E F I N I T I O N E N    D E S   I N S T R U M E N T S  ------------------------------------------------------------------}
 
 	{- definiert den Group Namen for allow..-}
