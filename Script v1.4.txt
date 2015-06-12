@@ -1,0 +1,45 @@
+
+	declare polyphonic $WhileID_Memory
+	declare $WhileID_Last:=0
+
+	declare polyphonic $Memory_Overwrite_Blocker
+ Hallooooo
+Blub
+{---------------------------------------------------   D E F I N I T I O N E N    D E S   I N S T R U M E N T S  ------------------------------------------------------------------}
+
+	{- definiert den Group Namen for allow..-}
+	declare !Instrumenten_Gruppe [40]
+    !Instrumenten_Gruppe[0] := ""
+
+    !Instrumenten_Gruppe[1] := "VI_spicc"    
+    !Instrumenten_Gruppe[2] := "VI_stacc"
+    !Instrumenten_Gruppe[3] := "VI_pizz"
+    !Instrumenten_Gruppe[4] := "VA_spicc"
+    !Instrumenten_Gruppe[5] := "VA_stacc"
+    !Instrumenten_Gruppe[6] := "VA_pizz"
+    !Instrumenten_Gruppe[7] := "CE_spicc"
+    !Instrumenten_Gruppe[8] := "CE_stacc"
+    !Instrumenten_Gruppe[9] := "CE_pizz"
+    !Instrumenten_Gruppe[10] := "BA_spicc"    
+    !Instrumenten_Gruppe[11] := "BA_stacc"
+    !Instrumenten_Gruppe[12] := "BA_pizz"
+    !Instrumenten_Gruppe[13] := ""
+    !Instrumenten_Gruppe[14] := ""
+    !Instrumenten_Gruppe[15] := ""
+    !Instrumenten_Gruppe[16] := "None"  
+
+    !Instrumenten_Gruppe[21] := "Piano"    
+    !Instrumenten_Gruppe[22] := "Horn"
+    !Instrumenten_Gruppe[23] := "BTrom"
+    !Instrumenten_Gruppe[24] := "Marimba"
+    !Instrumenten_Gruppe[25] := "AltoBells"
+    !Instrumenten_Gruppe[26] := "Ukulele"
+    !Instrumenten_Gruppe[27] := "BwdGuit"
+    !Instrumenten_Gruppe[28] := "Juno"
+    !Instrumenten_Gruppe[29] := ""
+    !Instrumenten_Gruppe[30] := ""    
+    !Instrumenten_Gruppe[31] := ""
+    !Instrumenten_Gruppe[32] := ""
+    !Instrumenten_Gruppe[33] := ""
+    !Instrumenten_Gruppe[34] := ""
+    !Instrumenten_Gruppe[35] := ""
