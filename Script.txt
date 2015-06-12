@@ -1,4 +1,4 @@
-
+{ commented out }
 	declare polyphonic $WhileID_Memory
 	declare $WhileID_Last:=0
 
@@ -43,3 +43,4 @@ Blub
     !Instrumenten_Gruppe[33] := ""
     !Instrumenten_Gruppe[34] := ""
     !Instrumenten_Gruppe[35] := ""
+    {  }
